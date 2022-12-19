@@ -1,0 +1,26 @@
+
+.backGround {
+    background-color: #183454;
+}
+
+.signup-btn{
+    cursor: pointer;
+}
+input{
+    margin-bottom: 5px;
+}
+.card-signin{
+    min-width:35%;
+    max-width:35%;
+    min-height:40%;
+    max-height:40%;
+    
+
+}
+
+.card-signup{
+    min-width:35%;
+    max-width:35%;
+    min-height:60%;
+    max-height:60%;
+}
